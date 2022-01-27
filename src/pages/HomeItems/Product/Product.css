@@ -1,0 +1,15 @@
+.product-container img{
+    height: 250px;
+    }
+    .card{
+        transition: all 1s;
+    }
+    .card-body:hover .card{
+        
+        transform: translateY(1.0);
+    }
+    .card-body:hover .btn{
+        
+        background-color: black;
+        color:white;
+    }

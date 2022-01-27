@@ -1,0 +1,13 @@
+.banner img{
+    height: 580px;
+    }
+    .banner{
+        margin-left: -13%;
+    }
+    .sidebar{
+        margin-left: -36px;
+    }
+    .rated{
+        border-bottom: 2px solid black;
+        margin-left: 35px;
+    }
