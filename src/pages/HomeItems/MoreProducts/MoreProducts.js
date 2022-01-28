@@ -18,7 +18,7 @@ const MoreProducts = () => {
         <> 
         <Header></Header>
          <div className="product-container mt-5 pt-4">
-            <h5 className="all-products text-dark rounded-3 m-3 p-2">Our All Products: {allproducts.length} </h5>
+            <h5 className="all-products text-dark rounded-3 m-3 p-2">Our All Experiences: {allproducts.length} </h5>
             {
             allproducts?.length <1  && <Button variant="danger">
             <Spinner
